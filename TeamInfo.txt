@@ -1,0 +1,3 @@
+/*
+/lib/SQLComplete.sql includes both the schema (tables and constraints) and sample data (insert values) to recreate the default state of your database. 
+*/

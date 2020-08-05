@@ -1,4 +1,4 @@
-## CS6400 Animal Shelter Management Project
+## Animal Shelter Management Project
 
 ## Installation
 Install Bitnami *AMP stack bitnami-wampstack-7.2.28-0-windows-x64-installer.exe from this location: https://bitnami.com/stack/wamp/installer
